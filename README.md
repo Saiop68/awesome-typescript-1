@@ -1206,6 +1206,7 @@ A curated list of awesome TypeScript frameworks, libraries and software.
 * [trailhq/Graft](https://github.com/trailhq/Graft) - Turbocharge Claude Code, Cursor, Codex, Gemini & every coding agent: faster, cheaper, with contextual understanding specific to your codebase.
 * [pixel-agents-hq/pixel-agents](https://github.com/pixel-agents-hq/pixel-agents) - Pixel office.
 * [taskforcesh/bullmq](https://github.com/taskforcesh/bullmq) - BullMQ - Message Queue and Batch processing for NodeJS, Python, .NET, Elixir, Rust and PHP based on Redis or PostgreSQL
+* [BetterQueue](https://github.com/Saiop68/better-queue) - Distributed rate limiter and job queue for Node.js with Redis-backed state, cross-process priority and crash recovery.
 * [apify/apify-mcp-server](https://github.com/apify/apify-mcp-server) - The Apify MCP server enables your AI agents to extract data from social media, search engines, maps, e-commerce sites, or any other website using thousands of ready-made scrapers, crawlers, and automation tools available on the Apify Store.
 * [chrismaltby/gb-studio](https://github.com/chrismaltby/gb-studio) - A quick and easy to use drag and drop retro game creator for your favourite handheld video game system
 * [ibelick/ui-skills](https://github.com/ibelick/ui-skills) - Skills for Design Engineers
